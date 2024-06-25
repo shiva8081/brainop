@@ -14,7 +14,7 @@ router.get("/signup",(req,res)=>{
 router.get("/logout",(req,res)=>{
     res.send("logout routes")
 }
-)
+)shiva
 
 
 export default router;
